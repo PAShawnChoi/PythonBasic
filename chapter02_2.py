@@ -113,3 +113,7 @@ break	for	not
 class	from	or	
 continue	global	pass	
 """
+
+'''
+#change  부분!!!!!
+'''
